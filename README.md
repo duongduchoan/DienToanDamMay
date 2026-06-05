@@ -1,9 +1,9 @@
 # Đồ án Điện toán đám mây - Triển khai Web QLSV trên AWS
 
 ## Thành viên
-- Hoàn
-- Khanh
-- Bình
+- Dương Đức Hoàn
+- Lê Trung Khánh
+- Ngô Thái Bình
 
 ## Công nghệ sử dụng
 - ASP.NET Core .NET 8
